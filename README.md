@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=venom&color=auto&height=300&section=header&text=KTHYEONG'S%20GITHUB&fontColor=6A006A&fontSize=50)
+![header](https://capsule-render.vercel.app/api?type=venom&color=FFC107&height=250&section=header&text=KTHYEONG'S&fontColor=FFFFFF&fontSize=70&fontAlignY=40&desc=GitHub&descSize=40)
 
 <!--
 **KTHYEONG/KTHYEONG** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
