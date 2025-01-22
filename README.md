@@ -1,7 +1,5 @@
 ![header](https://capsule-render.vercel.app/api?type=transparent&color=FFC107&height=100&section=header&text=KTHYEONG'S&fontColor=FFC107&fontSize=70&desc=GitHub&descAlignY=90&descAlign=66)
 
----
-
 <h3 align="center">__Language__</h3>
 <div align="center">
     <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white"/></a>&nbsp
