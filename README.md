@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=transparent&color=FFC107&height=100&section=header&text=KTHYEONG'S&fontColor=FFC107&fontSize=70&desc=GitHub&descAlignY=90&descAlign=66)
+![header](https://capsule-render.vercel.app/api?type=transparent&color=FFC107&height=300&section=header&text=KTHYEONG'S&fontColor=FFC107&fontSize=70&desc=GitHub&descAlignY=90&descAlign=66)
 
 <h3 align="center">__Language__</h3>
 <div align="center">
