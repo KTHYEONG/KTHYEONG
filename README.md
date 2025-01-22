@@ -1,10 +1,15 @@
 ![header](https://capsule-render.vercel.app/api?type=transparent&color=FFC107&height=100&section=header&text=KTHYEONG'S&fontColor=FFC107&fontSize=70&desc=GitHub&descAlignY=90&descAlign=66)
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KTHYEONG&theme=great-gatsby)](https://github.com/anuraghazra/github-readme-stats)
-
-
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KTHYEONG&hide=shaderLab,HLSL&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+<div style="text-align: center;">
+    <h3 style="display: inline-block; text-align: right; width: 100%;">__Language__</h3>
+   <img src="https://img.shields.io/badge/c++-20232a.svg?style=for-the-badge&logo=cplusplus&logoColor=00599C" />&nbsp
+   <img src="https://img.shields.io/badge/c++-20232a.svg?style=for-the-badge&logo=cplusplus&logoColor=00599C" />&nbsp
+   <img src="https://img.shields.io/badge/c++-20232a.svg?style=for-the-badge&logo=cplusplus&logoColor=00599C" />&nbsp
+</div>
+
 <!--
 **KTHYEONG/KTHYEONG** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
