@@ -2,13 +2,7 @@
 
 <h3 align="center">__Language__</h3>
 <div align="center">
-    <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white"/></a>&nbsp
-    <img src="https://img.shields.io/badge/C%23-A8B9CC?style=flat-square&logo=C&logoColor=white"/></a>&nbsp
-</div>
-
-<h3 align="center">__GameEngine__</h3>
-<div align="center">
-    <img src="https://img.shields.io/badge/Unity-000000?style=flat-square&logo=Unity&logoColor=white"/></a>&nbsp
+    <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=OpenJDK&logoColor=white"/></a>&nbsp
 </div>
 
 ---
@@ -22,17 +16,3 @@
 <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=KTHYEONG&theme=react-dark&bg_color=20232a&hide_border=true&line=FFC107&color=FFC107" width=94%/>
 </a>
-<!--
-**KTHYEONG/KTHYEONG** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
