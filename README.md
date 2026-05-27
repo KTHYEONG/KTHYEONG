@@ -38,6 +38,14 @@
 * **Automation Framework:** `Docker` 기반 CI/CD 구동 환경 구축
 * **Tech Stack:** `Python` · `pandas` · `NumPy` · `Docker`
 
+### 🚀 [Emori](https://github.com/KTHYEONG/Emori)
+> **LLM Fine-Tuning 기반 감성 분석 및 사용자 맞춤형 반응 생성 시스템**
+> * **🏆 2025년 한국정보기술학회 추계종합학술대회 동상 수상**
+
+* **Fine-Tuning Execution:** 한국어 감정 대화 데이터셋 전처리 및 오픈소스 LLM의 LoRA/QLoRA 기반 하이퍼파라미터 튜닝 최적화 수행
+* **Pipeline Integration:** 감성 분류(Classification) 및 문맥 맞춤형 텍스트 생성(Generation)을 위한 인퍼런스 파이프라인 구축
+* **Tech Stack:** `Python` · `PyTorch` · `Hugging Face (Transformers/PEFT)` · `scikit-learn`
+
 ---
 
 ## 🛠 Tech Stack
@@ -45,8 +53,9 @@
 | Category | Technologies |
 | :--- | :--- |
 | **Language** | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) |
-| **Data & Quant** | ![pandas](https://img.shields.io/badge/pandas-150458?style=flat-square&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)|
-| **Infra & Database** | ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-CC292B?style=flat-square)|
+| **Data & Quant** | ![pandas](https://img.shields.io/badge/pandas-150458?style=flat-square&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white) |
+| **AI & LLM** | ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=PyTorch&logoColor=white) ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square) |
+| **Infra & DB** | ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-CC292B?style=flat-square) |
 
 ---
 
