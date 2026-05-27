@@ -39,7 +39,7 @@
 * **Tech Stack:** `Python` · `pandas` · `NumPy` · `Docker`
 
 ### 🚀 [Emori](https://github.com/KTHYEONG/Emori)
-> **LLM Fine-Tuning 기반 감성 분석 및 사용자 맞춤형 반응 생성 시스템**
+> **LLM Fine-Tuning 기반 감정 분석 및 상담 보조 시스템**
 > * **🏆 2025년 한국정보기술학회 추계종합학술대회 동상 수상**
 
 * **Fine-Tuning Execution:** 한국어 감정 대화 데이터셋 전처리 및 오픈소스 LLM의 LoRA/QLoRA 기반 하이퍼파라미터 튜닝 최적화 수행
