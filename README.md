@@ -25,6 +25,7 @@
 | 📡 [**KRX-Alpha**](https://kthyeong.github.io/projects/krx-alpha.html) | 장중 호가·체결 시세를 수집하고, 끊긴 구간을 찾아 채우는 데이터 파이프라인 | [README](https://github.com/KTHYEONG/krx-alpha#readme) |
 | 🔁 [**K-Closing Alpha**](https://kthyeong.github.io/projects/k-closing-alpha.html) | 장 마감 직전 정보로 종가에 사서 다음 날 시초가에 파는 전략과 주문 집행 시스템 | [README](https://github.com/KTHYEONG/k-closing-alpha#readme) |
 | 🚢 [**Port Entity Matching**](https://kthyeong.github.io/projects/port-entity-matching.html) | 입출항 기록을 표준 선박 한 척으로 잇는 매칭 대회. 468명 중 106위, 교차검증과 대회 점수의 차이를 원인별로 분석 | [README](https://github.com/KTHYEONG/port-entity-matching#readme) |
+| ☀️ [**OIBC 2026**](https://kthyeong.github.io/projects/oibc-2026.html) | 태양광 발전량 예측·가상발전소 배정 대회 (제출 중). 예측 마감 이후 정보를 데이터 단계에서 차단 | [README](https://github.com/KTHYEONG/oibc-2026#readme) |
 | 🧾 [**SaveTax**](https://kthyeong.github.io/projects/savetax.html) | 시중가보다 비싼 납품 물품을 찾는 공공 조달 분석 (해커톤) | 🔒 |
 
 ### 📈 퀀트
@@ -52,7 +53,6 @@
 
 - 🛰 [auto-mobility](https://github.com/KTHYEONG/auto-mobility) `팀` · 실내 공간을 3D 모델로 복원하고 센서 데이터로 검증하는 온라인 현장실습. Visual SLAM 비교와 평가 담당
 - ⚙️ [K-Stock Engine](https://github.com/KTHYEONG/k-stock-engine) · 국내주식 다중 팩터 전략 연구와 가상 장부 기록 (진행 중)
-- ☀️ [OIBC 2026](https://github.com/KTHYEONG/oibc-2026) · 태양광 발전량 예측과 가상발전소 배정 대회
 
 ---
 
