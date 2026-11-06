@@ -23,8 +23,8 @@
 | 프로젝트 | 한 줄 소개 | 저장소 |
 | :--- | :--- | :---: |
 | 📡 [**KRX-Alpha**](https://kthyeong.github.io/projects/krx-alpha.html) | 장중 호가·체결 시세를 수집하고, 끊긴 구간을 찾아 채우는 데이터 파이프라인 | [README](https://github.com/KTHYEONG/krx-alpha#readme) |
-| 🚢 [**Port Entity Matching**](https://kthyeong.github.io/projects/port-entity-matching.html) | 입출항 기록을 표준 선박 한 척으로 잇는 매칭 대회 (진행 중) | 🔒 |
 | 🔁 [**K-Closing Alpha**](https://kthyeong.github.io/projects/k-closing-alpha.html) | 장 마감 직전 정보로 종가에 사서 다음 날 시초가에 파는 전략과 주문 집행 시스템 | [README](https://github.com/KTHYEONG/k-closing-alpha#readme) |
+| 🚢 [**Port Entity Matching**](https://kthyeong.github.io/projects/port-entity-matching.html) | 입출항 기록을 표준 선박 한 척으로 잇는 매칭 대회. 468명 중 106위, 교차검증과 대회 점수의 차이를 원인별로 분석 | [README](https://github.com/KTHYEONG/port-entity-matching#readme) |
 | 🧾 [**SaveTax**](https://kthyeong.github.io/projects/savetax.html) | 시중가보다 비싼 납품 물품을 찾는 공공 조달 분석 (해커톤) | 🔒 |
 
 ### 📈 퀀트
@@ -44,7 +44,7 @@
 | :--- | :--- | :---: |
 | 🧠 [**Emori**](https://kthyeong.github.io/projects/emori.html) `팀` | 뇌파와 상담 텍스트로 상담 요약을 만드는 멀티모달 AI. 뇌파 요약 LLM의 학습 데이터와 파인튜닝 담당 | [README](https://github.com/KTHYEONG/Emori#readme) |
 | 📚 [**Witches-Chat-Core**](https://kthyeong.github.io/projects/witches-chat-core.html) `팀` | 학사 규정을 근거와 함께 답하는 온프레미스 RAG 챗봇. 규정 문서 변환과 구조 표시 담당 | 🔒 |
-| 🚢 [**Port Entity Matching**](https://kthyeong.github.io/projects/port-entity-matching.html) | 규칙으로 풀리지 않는 한글 선박명을 LLM 후보로 보완한 매칭 대회 | 🔒 |
+| 🚢 [**Port Entity Matching**](https://kthyeong.github.io/projects/port-entity-matching.html) | 규칙으로 풀리지 않는 한글 선박명을 LLM 후보로 보완한 매칭 대회. 468명 중 106위 | [README](https://github.com/KTHYEONG/port-entity-matching#readme) |
 
 🏆 **Emori**: 2025 한국정보기술학회 추계종합학술대회 **우수논문상(동상)** · 팀 논문
 
