@@ -11,43 +11,26 @@
 | :--- | :--- |
 | [**kthyeong.github.io**](https://kthyeong.github.io/) | [데이터 · 금융 IT](https://kthyeong.github.io/pdf/portfolio-finance-data.pdf) · [퀀트](https://kthyeong.github.io/pdf/portfolio-quant.pdf) · [AI · LLM](https://kthyeong.github.io/pdf/portfolio-ai-llm.pdf) |
 
-> 💡 프로젝트 이름은 포트폴리오의 상세 페이지(구조 · 사례 · 한계)로, **README**는 저장소로 연결됩니다. 🔒는 비공개 저장소입니다.
+> 💡 프로젝트 이름은 포트폴리오의 상세 페이지(구조 · 사례 · 한계)로, **코드**는 GitHub 저장소로 연결됩니다. 🔒는 비공개 저장소입니다.
 
 ---
 
 ## 🗂 프로젝트
 
-### 🧩 데이터 · 금융 IT
-> 수집, 정리, 검증이 틀리지 않게 만든 시스템
+분야는 세 가지(🧩 데이터 · 금융 IT, 📈 퀀트, 🤖 AI · LLM)이고, 한 프로젝트가 여러 분야에 걸치면 함께 표시했습니다. 수치는 모두 측정 방식과 함께 포트폴리오 상세 페이지에 적었습니다.
 
-| 프로젝트 | 한 줄 소개 | 저장소 |
-| :--- | :--- | :---: |
-| 📡 [**KRX-Alpha**](https://kthyeong.github.io/projects/krx-alpha.html) | 장중 호가·체결 시세를 수집하고, 끊긴 구간을 찾아 채우는 데이터 파이프라인 | [README](https://github.com/KTHYEONG/krx-alpha#readme) |
-| 🔁 [**K-Closing Alpha**](https://kthyeong.github.io/projects/k-closing-alpha.html) | 장 마감 직전 정보로 종가에 사서 다음 날 시초가에 파는 전략과 주문 집행 시스템 | [README](https://github.com/KTHYEONG/k-closing-alpha#readme) |
-| 🚢 [**Port Entity Matching**](https://kthyeong.github.io/projects/port-entity-matching.html) | 입출항 기록을 표준 선박 한 척으로 잇는 매칭 대회. 468명 중 106위, 교차검증과 대회 점수의 차이를 원인별로 분석 | [README](https://github.com/KTHYEONG/port-entity-matching#readme) |
-| ☀️ [**OIBC 2026**](https://kthyeong.github.io/projects/oibc-2026.html) | 태양광 발전량 예측·가상발전소 배정 대회 (제출 중). 예측 마감 이후 정보를 데이터 단계에서 차단 | [README](https://github.com/KTHYEONG/oibc-2026#readme) |
-| 🧾 [**SaveTax**](https://kthyeong.github.io/projects/savetax.html) | 시중가보다 비싼 납품 물품을 찾는 공공 조달 분석 (해커톤) | 🔒 |
-
-### 📈 퀀트
-> 수익률의 가정을 하나씩 검증한 전략 연구
-
-| 프로젝트 | 한 줄 소개 | 저장소 |
-| :--- | :--- | :---: |
-| 🔁 [**K-Closing Alpha**](https://kthyeong.github.io/projects/k-closing-alpha.html) | 비용을 뺀 뒤에도 남는 수익이 있는지 검증한 종가 매매 | [README](https://github.com/KTHYEONG/k-closing-alpha#readme) |
-| ₿ [**Crypto Pilot**](https://kthyeong.github.io/projects/crypto-pilot.html) | 체결·증거금·강제청산 규칙을 재현한 바이낸스 선물 계좌 시뮬레이터 | [README](https://github.com/KTHYEONG/crypto-pilot#readme) |
-| 🏁 [**MT ETF King 2026**](https://kthyeong.github.io/projects/mt-etf-king.html) | 목표 도달 확률로 평가한 ETF 모의투자 대회 전략 연구 | [README](https://github.com/KTHYEONG/mt-etf-king-2026#readme) |
-| 🧺 [**ETF-Manager**](https://kthyeong.github.io/projects/etf-manager.html) | 세금을 반영한 ETF 장기 적립식 자산배분 비교 | [README](https://github.com/KTHYEONG/ETF-Manager#readme) |
-
-### 🤖 AI · LLM
-> LLM이 학습하고 검색할 데이터를 설계한 프로젝트
-
-| 프로젝트 | 한 줄 소개 | 저장소 |
-| :--- | :--- | :---: |
-| 🧠 [**Emori**](https://kthyeong.github.io/projects/emori.html) `팀` | 뇌파와 상담 텍스트로 상담 요약을 만드는 멀티모달 AI. 뇌파 요약 LLM의 학습 데이터와 파인튜닝 담당 | [README](https://github.com/KTHYEONG/Emori#readme) |
-| 📚 [**Witches-Chat-Core**](https://kthyeong.github.io/projects/witches-chat-core.html) `팀` | 학사 규정을 근거와 함께 답하는 온프레미스 RAG 챗봇. 규정 문서 변환과 구조 표시 담당 | 🔒 |
-| 🚢 [**Port Entity Matching**](https://kthyeong.github.io/projects/port-entity-matching.html) | 규칙으로 풀리지 않는 한글 선박명을 LLM 후보로 보완한 매칭 대회. 468명 중 106위 | [README](https://github.com/KTHYEONG/port-entity-matching#readme) |
-
-🏆 **Emori**: 2025 한국정보기술학회 추계종합학술대회 **우수논문상(동상)** · 팀 논문
+| 프로젝트 | 분야 | 한 줄 소개 | 코드 |
+| :--- | :---: | :--- | :---: |
+| 📡 [**KRX-Alpha**](https://kthyeong.github.io/projects/krx-alpha.html) | 🧩 | 증권사 실시간 틱을 받은 그대로 저장하고 빠진 구간을 채우는 수집 파이프라인. 서버 점검, 키·비밀값 보안까지 운영 (장 마감 후 감사 수신 손실 0.04~0.42%) | [GitHub](https://github.com/KTHYEONG/krx-alpha) |
+| 🔁 [**K-Closing Alpha**](https://kthyeong.github.io/projects/k-closing-alpha.html) | 🧩 📈 | 주문 전 기록으로 중복 주문을 막은 종가매매 자동 집행 시스템. 호가 비용을 먼저 반영한 전략 (운영 전략 백테스트 일평균 +31.27bp, 모의투자 리허설 중) | [GitHub](https://github.com/KTHYEONG/k-closing-alpha) |
+| 🧾 [**SaveTax**](https://kthyeong.github.io/projects/savetax.html) | 🧩 | 나라장터 해커톤. 시중가보다 비싼 납품 물품을 찾아 근거와 함께 제보하고, 반려에 이의 41건으로 대응 (1,169명 중 45위, 확정 5.93억 원) | [GitHub](https://github.com/KTHYEONG/SaveTax) |
+| ☀️ [**OIBC 2026**](https://kthyeong.github.io/projects/oibc-2026.html) | 🧩 | 태양광 발전량 예측·가상발전소 배정 대회 (제출 중). 예측 마감 이후 정보를 데이터 단계에서 차단 | [GitHub](https://github.com/KTHYEONG/oibc-2026) |
+| ₿ [**Crypto Pilot**](https://kthyeong.github.io/projects/crypto-pilot.html) | 📈 | 체결·증거금·강제청산 규칙을 재현한 바이낸스 선물 계좌 시뮬레이터. 반복 시험을 반영한 검증과 ML 보정의 사전 등록 시험 | [GitHub](https://github.com/KTHYEONG/crypto-pilot) |
+| 🏁 [**MT ETF King 2026**](https://kthyeong.github.io/projects/mt-etf-king.html) | 📈 | ETF 모의투자 대회 전략 연구. 채택 기준 미통과로 연구용으로 분류하고, 사후 분석으로 설계 오류를 찾아 재설계 | [GitHub](https://github.com/KTHYEONG/mt-etf-king-2026) |
+| 🧺 [**ETF-Manager**](https://kthyeong.github.io/projects/etf-manager.html) | 📈 | 세금을 반영한 ETF 장기 적립식 자산배분을 일반계좌·연금저축·ISA별로 비교 | [GitHub](https://github.com/KTHYEONG/ETF-Manager) |
+| 🚢 [**Port Entity Matching**](https://kthyeong.github.io/projects/port-entity-matching.html) | 🤖 🧩 | 입출항 기록을 표준 선박 한 척으로 잇는 매칭 대회. 규칙으로 못 푸는 한글 선박명을 LLM 후보로 보완 (468명 중 106위) | [GitHub](https://github.com/KTHYEONG/port-entity-matching) |
+| 🧠 [**Emori**](https://kthyeong.github.io/projects/emori.html) `팀` | 🤖 | 뇌파 지표를 상담자가 읽는 서술 리포트로 바꾸는 모델. 학습 데이터와 파인튜닝 담당 (🏆 2025 한국정보기술학회 추계종합학술대회 우수논문상 동상, 팀 논문) | [GitHub](https://github.com/KTHYEONG/Emori) |
+| 📚 [**Witches-Chat-Core**](https://kthyeong.github.io/projects/witches-chat-core.html) `팀` | 🤖 | 학사 규정을 근거와 함께 답하는 온프레미스 RAG 챗봇. 규정 문서 변환과 구조 표시 담당 | 🔒 |
 
 ### 📦 그 밖의 프로젝트
 
