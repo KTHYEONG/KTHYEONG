@@ -25,6 +25,7 @@
 | 🔁 [**K-Closing Alpha**](https://kthyeong.github.io/projects/k-closing-alpha.html) | 🧩 📈 | 주문 전 기록으로 중복 주문을 막은 종가매매 자동 집행 시스템. 호가 비용을 먼저 반영한 전략 (운영 전략 백테스트 일평균 +31.27bp, 모의투자 리허설 중) | [GitHub](https://github.com/KTHYEONG/k-closing-alpha) |
 | 🧾 [**SaveTax**](https://kthyeong.github.io/projects/savetax.html) | 🧩 | 나라장터 해커톤. 시중가보다 비싼 납품 물품을 찾아 근거와 함께 제보하고, 반려에 이의 41건으로 대응 (1,169명 중 45위, 확정 5.93억 원) | [GitHub](https://github.com/KTHYEONG/SaveTax) |
 | ☀️ [**OIBC 2026**](https://kthyeong.github.io/projects/oibc-2026.html) | 🧩 | 태양광 발전량 예측·가상발전소 배정 대회 (제출 중). 예측 마감 이후 정보를 데이터 단계에서 차단 | [GitHub](https://github.com/KTHYEONG/oibc-2026) |
+| ⚙️ [**K-Stock Engine**](https://kthyeong.github.io/projects/k-stock-engine.html) | 📈 🧩 | LightGBM 점수와 KOSPI 200 추세 선물 오버레이 전략을, 공시 시각 기준 데이터와 사전 선언한 승격 기준으로 검증. 서버에서 가상 장부로 운영 (백테스트 연복리 +49.43%, 재현 불가·실주문 없음) | [GitHub](https://github.com/KTHYEONG/k-stock-engine) |
 | ₿ [**Crypto Pilot**](https://kthyeong.github.io/projects/crypto-pilot.html) | 📈 | 체결·증거금·강제청산 규칙을 재현한 바이낸스 선물 계좌 시뮬레이터. 반복 시험을 반영한 검증과 ML 보정의 사전 등록 시험 | [GitHub](https://github.com/KTHYEONG/crypto-pilot) |
 | 🏁 [**MT ETF King 2026**](https://kthyeong.github.io/projects/mt-etf-king.html) | 📈 | ETF 모의투자 대회 전략 연구. 채택 기준 미통과로 연구용으로 분류하고, 사후 분석으로 설계 오류를 찾아 재설계 | [GitHub](https://github.com/KTHYEONG/mt-etf-king-2026) |
 | 🧺 [**ETF-Manager**](https://kthyeong.github.io/projects/etf-manager.html) | 📈 | 세금을 반영한 ETF 장기 적립식 자산배분을 일반계좌·연금저축·ISA별로 비교 | [GitHub](https://github.com/KTHYEONG/ETF-Manager) |
@@ -35,7 +36,6 @@
 ### 📦 그 밖의 프로젝트
 
 - 🛰 [auto-mobility](https://github.com/KTHYEONG/auto-mobility) `팀` · 실내 공간을 3D 모델로 복원하고 센서 데이터로 검증하는 온라인 현장실습. Visual SLAM 비교와 평가 담당
-- ⚙️ [K-Stock Engine](https://github.com/KTHYEONG/k-stock-engine) · 국내주식 다중 팩터 전략 연구와 가상 장부 기록 (진행 중)
 
 ---
 
