@@ -1,6 +1,7 @@
 # 👋 김태형 · TaeHyeong Kim
 
-**데이터를 믿을 수 있게 만들고, 안정적으로 돌아가는 시스템까지 만드는 신입 개발자입니다.**
+**데이터를 수집·검증하고 운영까지 직접 하는 신입 개발자**<br>
+금융 시세·자동 주문 시스템에서 시작해 LLM 학습 데이터까지
 
 🎓 경북대학교 컴퓨터학부 · 2027.02 졸업 예정
 ✉️ [xogud3624@gmail.com](mailto:xogud3624@gmail.com)
@@ -21,10 +22,10 @@
 
 | 프로젝트 | 분야 | 한 줄 소개 | 코드 |
 | :--- | :---: | :--- | :---: |
-| 📡 [**KRX-Alpha**](https://kthyeong.github.io/projects/krx-alpha.html) | 🧩 | 증권사 실시간 틱을 받은 그대로 저장하고 빠진 구간을 채우는 수집 파이프라인. 서버 점검, 키·비밀값 보안까지 운영 (장 마감 후 감사 수신 손실 0.04~0.42%) | [GitHub](https://github.com/KTHYEONG/krx-alpha) |
+| 📡 [**KRX-Alpha**](https://kthyeong.github.io/projects/krx-alpha.html) | 🧩 | 증권사 실시간 틱을 받은 그대로 저장하고 빠진 구간을 채우는 수집 파이프라인. 서버 점검, 키·비밀값 보안까지 운영 (장 마감 후 감사 수신 누락률 0.37%, 10.23~11.25 24거래일 합산, 일별 0.03~1.42%) | [GitHub](https://github.com/KTHYEONG/krx-alpha) |
 | 🔁 [**K-Closing Alpha**](https://kthyeong.github.io/projects/k-closing-alpha.html) | 🧩 📈 | 주문 전 기록으로 중복 주문을 막은 종가매매 자동 집행 시스템. 호가 비용을 먼저 반영한 전략 (운영 전략 백테스트 일평균 +31.27bp, 모의투자 리허설 중) | [GitHub](https://github.com/KTHYEONG/k-closing-alpha) |
-| 🧾 [**SaveTax**](https://kthyeong.github.io/projects/savetax.html) | 🧩 | 나라장터 해커톤. 시중가보다 비싼 납품 물품을 찾아 근거와 함께 제보하고, 반려에 이의 41건으로 대응 (1,169명 중 45위, 확정 5.93억 원) | [GitHub](https://github.com/KTHYEONG/SaveTax) |
-| ☀️ [**OIBC 2026**](https://kthyeong.github.io/projects/oibc-2026.html) | 🧩 | 태양광 발전량 예측·가상발전소 배정 대회 (제출 중). 예측 마감 이후 정보를 데이터 단계에서 차단 | [GitHub](https://github.com/KTHYEONG/oibc-2026) |
+| 🧾 [**SaveTax**](https://kthyeong.github.io/projects/savetax.html) | 🧩 | 나라장터 해커톤. 시중가보다 비싼 납품 물품을 찾아 근거와 함께 제보하고, 반려에 이의 41건으로 대응 (확정 금액을 받은 115명 중 45위, 전체 참가 1,169명, 확정 5.93억 원) | [GitHub](https://github.com/KTHYEONG/SaveTax) |
+| ☀️ [**OIBC 2026**](https://kthyeong.github.io/projects/oibc-2026.html) | 🧩 | 태양광 발전량 예측·가상발전소 배정 대회 (385명 중 32위). 예측 마감 이후 정보를 데이터 단계에서 차단 | [GitHub](https://github.com/KTHYEONG/oibc-2026) |
 | ⚙️ [**K-Stock Engine**](https://kthyeong.github.io/projects/k-stock-engine.html) | 📈 | LightGBM 점수와 KOSPI 200 추세 선물 오버레이 전략을, 공시 시각 기준 데이터와 사전 선언한 승격 기준으로 검증. 서버에서 가상 장부로 운영 (백테스트 연복리 +49.43%, 재현 불가·실주문 없음) | [GitHub](https://github.com/KTHYEONG/k-stock-engine) |
 | ₿ [**Crypto Pilot**](https://kthyeong.github.io/projects/crypto-pilot.html) | 📈 | 체결·증거금·강제청산 규칙을 재현한 바이낸스 선물 계좌 시뮬레이터. 반복 시험을 반영한 검증과 ML 보정의 사전 등록 시험 | [GitHub](https://github.com/KTHYEONG/crypto-pilot) |
 | 🏁 [**MT ETF King 2026**](https://kthyeong.github.io/projects/mt-etf-king.html) | 📈 | ETF 모의투자 대회 전략 연구. 채택 기준 미통과로 연구용으로 분류하고, 사후 분석으로 설계 오류를 찾아 재설계 | [GitHub](https://github.com/KTHYEONG/mt-etf-king-2026) |
